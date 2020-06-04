@@ -13,8 +13,8 @@ ___
 ### Hello World
 
 ```
-println("Hello World")
-println("Goodbye Cruel World")
+print("Hello World")
+print("Goodbye Cruel World")
 ```
 
 Try to get this to print in your Terminal.
